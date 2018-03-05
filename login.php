@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>小鱼</title>
+    <title>用户登录</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/navbar.css">
     <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
@@ -15,7 +14,9 @@
             <div class="container">
                 <div class="container-fluid">
                     <div class="navbar-header">
-                        <a class="navbar-brand" href="index.html">小鱼</a>
+                        <a class="navbar-brand logo" href="index.html">
+                            <img src="svg/fish.svg" alt="">
+                        </a>
                     </div>
                     <div>
                         <ul class="nav navbar-nav">

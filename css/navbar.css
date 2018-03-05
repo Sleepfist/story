@@ -1,5 +1,20 @@
+body {
+  background-color: #fafafa; }
+
 nav {
   border: 0 !important;
   border-radius: 0 !important; }
+  nav .logo {
+    padding: 5px 20px !important; }
+    nav .logo img {
+      width: 40px;
+      height: 40px; }
+  nav .nav a {
+    height: 50px;
+    padding: 13px 20px !important;
+    line-height: 24px; }
+    nav .nav a:hover {
+      background-color: #fafafa !important;
+      color: #555 !important; }
 
 /*# sourceMappingURL=navbar.css.map */
